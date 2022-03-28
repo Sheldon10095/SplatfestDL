@@ -1,0 +1,14 @@
+# Build Folders
+build*
+
+# App
+SFDL_PC
+
+.vscode
+.DS_Store
+.git
+
+*.elf
+*.rpx
+
+*.xml
